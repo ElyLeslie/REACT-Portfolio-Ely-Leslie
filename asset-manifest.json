@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/REACT-Portfolio-Ely-Leslie/static/css/main.4203a22a.css",
+    "main.js": "/REACT-Portfolio-Ely-Leslie/static/js/main.db9a60ed.js",
+    "static/media/pexels-roberto-nickson-2775196.jpg": "/REACT-Portfolio-Ely-Leslie/static/media/pexels-roberto-nickson-2775196.8389e01b6e50afcfbf5d.jpg",
+    "static/media/ProjectZest.png": "/REACT-Portfolio-Ely-Leslie/static/media/ProjectZest.65cac1b30aeaa209a8e1.png",
+    "static/media/TaptapScreenshot.png": "/REACT-Portfolio-Ely-Leslie/static/media/TaptapScreenshot.bd9a1e9520df35c23173.png",
+    "static/media/JATE.png": "/REACT-Portfolio-Ely-Leslie/static/media/JATE.51d83fbf0d212fc16f21.png",
+    "index.html": "/REACT-Portfolio-Ely-Leslie/index.html",
+    "main.4203a22a.css.map": "/REACT-Portfolio-Ely-Leslie/static/css/main.4203a22a.css.map",
+    "main.db9a60ed.js.map": "/REACT-Portfolio-Ely-Leslie/static/js/main.db9a60ed.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4203a22a.css",
+    "static/js/main.db9a60ed.js"
+  ]
+}
